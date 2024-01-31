@@ -7,7 +7,6 @@ const LanguageList = () => {
     { name: "Java", progress: 100, className: "java-progress", years: 3 },
     { name: "Python", progress: 66, className: "python-progress", years: 2 },
     { name: "HTML/CSS/JS", progress: 66, className: "web-progress", years: 2 },
-    { name: "SQL", progress: 33, className: "sql-progress", years: 1 },
     { name: "C", progress: 33, className: "c-progress", years: 1 },
     { name: "ARM7 Assembly", progress: 33, className: "arm7-assembly-progress", years: 1 },
   ]);
