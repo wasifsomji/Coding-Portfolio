@@ -17,9 +17,6 @@ Welcome to my coding portfolio! This web application is built using ReactJs with
 This portfolio is a personalized space for me to highlight my expertise, share my projects, and provide information about my coding journey. The application offers an interactive and user-friendly experience for visitors to explore my work and get in touch with me.
 
 
-## Contributing
-
-If you'd like to contribute to this project, please follow the [Contributing Guidelines](CONTRIBUTING.md).
 
 ## License
 
