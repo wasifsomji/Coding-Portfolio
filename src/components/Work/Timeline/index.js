@@ -13,15 +13,6 @@ const Timeline = () => {
     },
 
     {
-      date: "Oct 2023 - Present",
-      title: "Blockchain at McGill | Software Developer",
-      description: [
-        "Actively engages in a comprehensive weekly Solidity coding bootcamp, utilizing Remix IDE to develop and refine smart contract programming skills.",
-        "Participates in hackathons and works collaboratively on blockchain infrastructure projects."
-      ],
-      expanded: false
-    },
-    {
       date: "Jun 2023 - Aug 2023",
       title: "Pacific Reach | IT Analyst Intern",
       description: [
