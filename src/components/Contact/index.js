@@ -67,7 +67,7 @@ const Contact = () => {
                                     </a>
                                 </p>
                             </td>
-                            <td className="right-side">
+                            {/* <td className="right-side">
                                 <div className="contact-form" onSubmit={sendEmail}>
                                     <form ref={refForm}>
                                         <ul>
@@ -89,7 +89,7 @@ const Contact = () => {
                                         </ul>
                                     </form>
                                 </div>
-                            </td>
+                            </td> */}
                         </tr>
                     </table>
                 </div>
