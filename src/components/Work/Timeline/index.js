@@ -19,7 +19,6 @@ const Timeline = () => {
       description: [
         "Efficiently resolved a backlog of <b>500+</b> Helpdesk tickets, leveraging <b>Azure Active Directory</b> and implementing technology upgrades at over <b>20</b> national sites, enhancing system efficiency and user experience.",
         "Collaborated with senior analysts to troubleshoot and configure an extensive range of devices, from high-end desktops to complex mobile platforms, demonstrating a high level of technical agility.",
-        "Designed and implemented a <b>PowerShell script</b> to automate the tasks of adding, removing, and editing permissions on users saved in <b>Active Directory</b>.",
         "Mastered practical skills in motherboard logic and hardware troubleshooting, excelling in component replacement and significantly cutting costs in technology upgrades and replacements."
       ],
       expanded: false
