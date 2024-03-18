@@ -13,10 +13,10 @@
             "url": "https://github.com/wasifsomji/ECSE-321-Final-Project"
         }, 
         {
-            "cover": "/portfolio/Coursework.jpeg", 
-            "title": "Coding Course Work", 
-            "description": "Python, Java", 
-            "url": "https://github.com/wasifsomji"
+            "cover": "/portfolio/FantasyFootball.jpeg", 
+            "title": "Fantasy Soccer App", 
+            "description": "SpringBoot, PostgreSQL, React.JS", 
+            "url": "https://github.com/JamesDarby345/5LeagueFantasy"
         }
     ]
 }
