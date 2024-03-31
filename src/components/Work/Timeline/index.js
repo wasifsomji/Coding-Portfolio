@@ -8,7 +8,7 @@ const Timeline = () => {
       title: "Khamis Towing and Roadside Assistance | Software Engineer",
       description: [
         "Designed and implemented a full-stack web application designed to manage 300+ customers per month, reducing task downtime by 90%." ,
-        "Utilized React.js for the UI, Express.js and Node.js for back-end server operations., and integrated a MongoDB database for effective data storage solutions, ensuring organized data management.",
+        "Utilized React.js for the UI, Express.js and Node.js for back-end server operations, and integrated a MongoDB database for effective data storage solutions, ensuring organized data management.",
         "Developed a thorough testing suite of 75+ unit and integration tests using Jest and Supertest."
       ]
     },
