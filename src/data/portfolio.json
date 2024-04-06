@@ -13,12 +13,6 @@
             "url": "https://github.com/wasifsomji/ECSE-321-Final-Project"
         }, 
         {
-            "cover": "/portfolio/FantasyFootball.jpeg", 
-            "title": "Fantasy Soccer App", 
-            "description": "SpringBoot, PostgreSQL, React.JS", 
-            "url": "https://github.com/JamesDarby345/5LeagueFantasy"
-        },
-        {
             "cover": "/portfolio/mcgill_aesthetic.jpeg",
             "title": "McMenu",
             "description": "SpringBoot, PostgreSQL, React.JS",
