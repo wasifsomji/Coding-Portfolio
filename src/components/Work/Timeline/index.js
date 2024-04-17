@@ -18,8 +18,8 @@ const Timeline = () => {
       title: "Pacific Reach | IT Analyst Intern",
       description: [
         "Efficiently resolved a backlog of <b>500+</b> Helpdesk tickets, leveraging <b>Azure Active Directory</b> and implementing technology upgrades at over <b>20</b> national sites, enhancing system efficiency and user experience.",
-        "Collaborated with senior analysts to troubleshoot and configure an extensive range of devices, from high-end desktops to complex mobile platforms, demonstrating a high level of technical agility.",
-        "Mastered practical skills in motherboard logic and hardware troubleshooting, excelling in component replacement and significantly cutting costs in technology upgrades and replacements."
+        "Developed and executed a detailed plan to deploy two-factor authentication (2FA) for the Pacific Reach organization using Azure’s robust security services, fortifying the security framework for 200+ users. ",
+        "Mastered practical skills in motherboard logic and hardware troubleshooting, excelling in component replacement and significantly cutting costs in technology upgrades and replacements by 28%."
       ],
       expanded: false
     }
