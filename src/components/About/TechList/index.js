@@ -5,6 +5,7 @@ import "./index.scss"
 const TechList = () => {
   const [techs] = useState([
     { name: "NodeJS", progress: 100, className: "node-progress", years: 1},
+    { name: "ReactJS", progress: 100, className: "react-progress", years: 1 },
     { name: "VueJS", progress: 100, className: "react-progress", years: 1 },
     { name: "Spring Boot", progress: 100, className: "springboot-progress", years: 1 },
     { name: "PostgreSQL", progress: 100, className: "postgre-progress", years: 1 },
