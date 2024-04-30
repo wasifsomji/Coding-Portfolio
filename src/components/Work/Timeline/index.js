@@ -6,7 +6,9 @@ const Timeline = () => {
     {
       date: "May 2024 - Present",
       title: "The MRG Group | Software Engineering Intern",
-      description: []
+      description: [
+        "Incoming @ Summer '24"
+      ]
     },
     {
       date: "May 2024 - Present",
