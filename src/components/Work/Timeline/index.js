@@ -4,6 +4,18 @@ import './index.scss';
 const Timeline = () => {
   const [events, setEvents] = useState([
     {
+      date: "May 2024 - Present",
+      title: "The MRG Group | Software Engineering Intern",
+      description: []
+    },
+    {
+      date: "May 2024 - Present",
+      title: "Lottus | Backend Engineering Intern",
+      description: [
+        "Part-time startup work in progress. Working on currency conversion for a blockchain-based transfer system.",
+      ]
+    },
+    {
       date: "Feb 2023 - Present",
       title: "Khamis Towing and Roadside Assistance | Software Engineer",
       description: [
