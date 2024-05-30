@@ -29,7 +29,7 @@ const About = () => {
                         <AnimatedLetters letterClass={letterClass} strArray = {"About me".split("")} idx={15}/>
                     </h1>
                     <p>
-                    I am a driven full-stack developer, passionate about the application of software development in business optimization, finance, and AI.
+                    I am a driven full-stack developer, passionate about the application of software development in business optimization and finance.
                     <LanguageList />
                     <Link to="/about/tech" className="flat-button">FRAMEWORKS/TECHNOLOGIES</Link>
                     <Link to="/about/dev" className="flat-button">DEVELOPMENT TOOLS</Link>
