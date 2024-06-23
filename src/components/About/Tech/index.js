@@ -34,7 +34,6 @@ const About = () => {
                     <TechList />
                     <div style={{ display: 'flex', flexDirection: 'column' }}>
                         <Link to="/about" className="flat-button">LANGUAGES</Link>
-                        <br/>
                         <Link to="/about/dev" className="flat-button">DEVELOPMENT TOOLS</Link>
                     </div>
                     </p>
