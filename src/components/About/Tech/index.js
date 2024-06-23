@@ -32,9 +32,11 @@ const About = () => {
                     I am a driven full-stack developer, passionate about the application of software development in business optimization and client solutions.
                     <br/>
                     <TechList />
-                    <Link to="/about" className="flat-button">LANGUAGES</Link>
-                    <br/>
-                    <Link to="/about/dev" className="flat-button">DEVELOPMENT TOOLS</Link>
+                    <div style={{ display: 'flex', flexDirection: 'column' }}>
+                        <Link to="/about" className="flat-button">LANGUAGES</Link>
+                        <br/>
+                        <Link to="/about/dev" className="flat-button">DEVELOPMENT TOOLS</Link>
+                    </div>
                     </p>
                 </div>
                 <div className = "stage-cube-cont">
