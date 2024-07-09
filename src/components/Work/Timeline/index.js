@@ -7,14 +7,26 @@ const Timeline = () => {
       date: "May 2024 - Present",
       title: "The MRG Group | Software Engineering Intern",
       description: [
-        "Incoming @ Summer '24"
+        "Led the development of the refactored MRG Travel website using Next.js, integrating Google APIs to reduce travel consultant booking times by 99+%.",
+        "Developed and implemented a comprehensive testing strategy for GraphQL resolvers using the Go testing framework, increasing code coverage by 42%.",
+        "Configured a CI/CD pipeline and appended a containerized MongoDB test database to ensure robustness of backend services, significantly bolstering system security.",
+        "Shipped web and mobile features within the AdmitOne Ticketing Platform, employing React.js and React Native to enhance user experience.",
+        "Leveraged Sentry SDK to proactively identify and resolve 15+ bugs in GraphQL API endpoints and React.js frontend features."
+      ]
+    },
+    {
+      date: "July 2024 - Present",
+      title: "Shomigo | Mobile Developer",
+      description: [
+        "Stella | AI Fashion Assistant"
       ]
     },
     {
       date: "May 2024 - Present",
-      title: "Lottus | Backend Engineering Intern",
+      title: "Lottus | Backend Developer (Part-Time)",
       description: [
-        "Part-time startup work in progress. Working on currency conversion for a blockchain-based transfer system.",
+        "Integrated Stripe API into a Node.js backend to allow for user payments, enabling fiat transactions and support for 5+ cryptocurrencies.",
+        "Conducted rigorous testing of 15+ custom and third-party APIs using Postman, ensuring compliance with specifications and enhancing system reliability."
       ]
     },
     {
