@@ -22,7 +22,7 @@ const Timeline = () => {
       ]
     },
     {
-      date: "May 2024 - Present",
+      date: "May 2024 - July 2024",
       title: "Lottus | Backend Developer (Part-Time)",
       description: [
         "Integrated Stripe API into a Node.js backend to allow for user payments, enabling fiat transactions and support for 5+ cryptocurrencies.",
