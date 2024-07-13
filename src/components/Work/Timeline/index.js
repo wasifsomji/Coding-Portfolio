@@ -30,7 +30,7 @@ const Timeline = () => {
       ]
     },
     {
-      date: "Feb 2023 - Present",
+      date: "Feb 2024 - April 2024",
       title: "Khamis Towing and Roadside Assistance | Software Engineer",
       description: [
         "Designed and implemented a full-stack web application designed to manage 300+ customers per month, reducing task downtime by 90%." ,
