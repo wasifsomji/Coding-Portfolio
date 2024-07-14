@@ -36,7 +36,7 @@ const Home = () => {
                 <br /> 
                 <AnimatedLetters letterClass={letterClass} strArray={jobArray} idx={15} /> 
                 </h1>
-                <h2>Computer Engineering '25 at McGill University</h2>
+                <h2>Computer Engineering '25 @ McGill University</h2>
                 <Link to="/contact" className="flat-button">CONTACT ME</Link>
             </div>
             <Logo className="Home"/>
