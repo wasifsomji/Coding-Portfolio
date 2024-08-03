@@ -8,10 +8,10 @@ const Timeline = () => {
       title: "The MRG Group | Software Engineering Intern",
       description: [
         "Led the development of the refactored MRG Travel website using Next.js, integrating Google APIs to reduce travel consultant booking times by 99+%.",
-        "Developed and implemented a comprehensive testing strategy for GraphQL resolvers using the Go testing framework, increasing code coverage by 42%.",
-        "Configured a CI/CD pipeline and appended a containerized MongoDB test database to ensure robustness of backend services, significantly bolstering system security.",
+        "Configured a CI/CD pipeline with a Dockerized MongoDB test database instance and implemented a comprehensive automated testing strategy for GraphQL resolvers using the Go testing framework, increasing code coverage by 51%.",
+        "Migrated 15+ Nest.js endpoints to GraphQL APIs across web and mobile, decreasing response times by 22%",
+        "Leveraged Sentry SDK to proactively identify and resolve 15+ bugs in GraphQL API endpoints and React.js frontend features.",
         "Shipped web and mobile features within the AdmitOne Ticketing Platform, employing React.js and React Native to enhance user experience.",
-        "Leveraged Sentry SDK to proactively identify and resolve 15+ bugs in GraphQL API endpoints and React.js frontend features."
       ]
     },
     {
@@ -25,6 +25,7 @@ const Timeline = () => {
       date: "May 2024 - July 2024",
       title: "Lottus | Backend Developer (Part-Time)",
       description: [
+        "Migrated a static deployment from Heroku to AWS Elastic Beanstalk and designed a CI/CD pipeline to automate the release process, significantly reducing deployment time and enhancing reliability.",
         "Integrated Stripe API into a Node.js backend to allow for user payments, enabling fiat transactions and support for 5+ cryptocurrencies.",
         "Conducted rigorous testing of 15+ custom and third-party APIs using Postman, ensuring compliance with specifications and enhancing system reliability."
       ]
