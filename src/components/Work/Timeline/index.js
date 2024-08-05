@@ -8,7 +8,7 @@ const Timeline = () => {
       title: "The MRG Group | Software Engineering Intern",
       description: [
         "Led the development of the refactored MRG Travel website using Next.js, integrating Google APIs to reduce travel consultant booking times by 99+%.",
-        "Configured a CI/CD pipeline with a Dockerized MongoDB test database instance and implemented a comprehensive automated testing strategy for GraphQL resolvers using the Go testing framework, increasing code coverage by 51%.",
+        "Configured a CI/CD pipeline with a Dockerized MongoDB test database instance and developed 80+ unit and integration tests for GraphQL resolvers using the Go testing framework, increasing code coverage by 51%.",
         "Migrated 15+ Nest.js endpoints to GraphQL APIs across web and mobile, decreasing response times by 22%",
         "Leveraged Sentry SDK to proactively identify and resolve 15+ bugs in GraphQL API endpoints and React.js frontend features.",
         "Shipped web and mobile features within the AdmitOne Ticketing Platform, employing React.js and React Native to enhance user experience.",
